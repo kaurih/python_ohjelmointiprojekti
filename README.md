@@ -27,9 +27,14 @@ Koodin pituuden vuoksi käyn tätä tarkemmin läpi videodemolla, mutta lyhykäi
 1. Ohjelma alustaa kirjastot ja muuttujat
 2. Ohjelma luo madon ja ruuan näytölle
 3. Kun mato liikkuu, ohjelma tarkistaa törmääkö se esteeseen tai ruokaan.
-4 a. Jos mato törmää esteeseen, peli päättyy ja ohjelma luo uuden madon.
-4 b. Jos mato syö ruokaa, madon häntä pitenee (ohjelma kasvattaa listaa, joka on madon "keho".)
-5 ohjelma luo uuden ruuan.
+4. A. Jos mato törmää esteeseen, peli päättyy ja ohjelma luo uuden madon.
+4. B. Jos mato syö ruokaa, madon häntä pitenee (ohjelma kasvattaa listaa, joka on madon "keho".)
+5. Ohjelma luo uuden ruuan.
+
+
+### Vuokaavio
+
+![Vuokaavio](https://github.com/kaurih/python_ohjelmointiprojekti/blob/main/matopeli.png?raw=true)
 
 
 
@@ -43,10 +48,16 @@ Koodin pituuden vuoksi käyn tätä tarkemmin läpi videodemolla, mutta lyhykäi
 ## Linkit ja lähteet
 
 https://www.pygame.org/docs/ Luettu 29.5.
+
 https://youtu.be/y9VG3Pztok8?si=xtVqtN1ETGPcQuat Katsottu 29.5.
+
 https://youtu.be/9bBgyOkoBQ0?si=w9Zw9zV_NwirrM3q Katsottu 30. 5.
+
 https://youtu.be/ebVV-6QMUIU?si=h6MFmqjH90TISVcK Katsottu 30. 5.
+
 https://youtu.be/BkJD-ddq0dw?si=k7eRjhOjzYYNOc-P Katsottu 30. 5.
+
 https://youtu.be/aLxJM-cfqnc?si=R1XvIEv054zUI6yU Katsottu 31. 5.
+
 
 Tätä koodia on muokattu tekoälyllä (OpenAI ChatGPT 3.5).
