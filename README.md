@@ -38,6 +38,20 @@ Koodin pituuden vuoksi käyn tätä tarkemmin läpi videodemolla, mutta lyhykäi
 
 
 
+## Demovideot!
+
+Koska koodia on aika paljon (ja puhuin hitaasti), niin jouduin jakamaan esittelyn kolmeen osaan. Ne ovat yhteensä hieman alle puoli tuntia, joten suosittelen katsomaan ne 1.5 tai korkeammalla nopeudella.
+
+1. osa: pelidemo ja muuttujia
+https://youtu.be/nee7rRH4KBg
+
+2. osa: funktioiden määrittelyä ja pelin logiikkaa
+https://youtu.be/zB2K2YXfjE4
+
+3. osa: lisää pelin toiminnasta ja pohdintaa
+https://youtu.be/qbfvXBs8WpQ
+
+
 ## Ohje
 
 1. Käynnistä ohjelma painamalla "Run" -näppäintä editorissa (VSCODE) tai syöttämällä komento Komentokehotteeseen.
